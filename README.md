@@ -18,4 +18,5 @@ Folder containes the ads-data.csv file with Ads Impressions : Signups data.
 - Machine learning libraries
 - Anaconda/Spyder
 
-## - V
+## Contributers
+- V
