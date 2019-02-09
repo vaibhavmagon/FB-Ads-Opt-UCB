@@ -1,8 +1,8 @@
 # Facebook Ads Optimization 
-This code analyzes 43 Facebook ads sets and helps find the best ad set using the <a href="http://banditalgs.com/2016/09/18/the-upper-confidence-bound-algorithm/">Upper Confidence Bound</a> machine learning algorithm.
+This code analyzes 43 Facebook ad sets and helps find the best ad set using the <a href="http://banditalgs.com/2016/09/18/the-upper-confidence-bound-algorithm/">Upper Confidence Bound</a> machine learning algorithm.
 
 ## To Run
-1. Export Ad set from Facebook ads directly for Impressions : Signups.
+1. Export Ad set from Facebook ads directly for Impressions : Signups (Can use it for other data points as well).
 2. Replace the data in ads-data.csv with current ads data.
 3. Run: sudo python fb-ucb-ads.py
 
