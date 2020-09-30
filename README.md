@@ -1,8 +1,10 @@
-# Facebook Ads Optimization Script
+# Facebook Ads Optimization Script Using real-life Ads data.
 
 <img src="https://img.shields.io/static/v1?label=Python&message=2.7&color=<COLOR>"> <img src="https://img.shields.io/static/v1?label=Build&message=Passing&color=<COLOR>">
 
 This code analyzes 43 Facebook ad sets and helps find the best ad set using the <a href="http://banditalgs.com/2016/09/18/the-upper-confidence-bound-algorithm/">Upper Confidence Bound</a> machine learning algorithm.
+
+More on UCB here: http://banditalgs.com/2016/09/18/the-upper-confidence-bound-algorithm/
 
 
 ## To Run
