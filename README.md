@@ -31,3 +31,8 @@ Clearly here Ad: 2 is the winner and should have higher budget allocation.
 
 ## Contributers
 - Vaibhav Magon
+
+
+## Support
+
+[![Buy Me Chai](https://i.ibb.co/Xkdj83y/image-2.png)](https://buymechai.ml/link.html?vpa=vaibhav210991@okaxis&nm=Vaibhav&amt=10)
