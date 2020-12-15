@@ -1,4 +1,4 @@
-# Facebook Ads Optimization Script Using real-life Ads data.
+# Facebook Ads Optimization Script Using Real Life Ads 💻
 
 <img src="https://img.shields.io/static/v1?label=Python&message=2.7&color=<COLOR>"> <img src="https://img.shields.io/static/v1?label=Build&message=Passing&color=<COLOR>">
 
