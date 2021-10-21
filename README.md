@@ -1,4 +1,4 @@
-# Facebook Ads Optimization Script Using Real Life Ads 💻
+# Facebook Ads Optimisation Script Using Real Life Ads 💻
 
 <img src="https://img.shields.io/static/v1?label=Python&message=2.7&color=<COLOR>"> <img src="https://img.shields.io/static/v1?label=Build&message=Passing&color=<COLOR>">
 
@@ -14,11 +14,11 @@ More on UCB here: http://banditalgs.com/2016/09/18/the-upper-confidence-bound-al
 
 
 ## Data
-Folder containes the ads-data.csv file with Ads Impressions : Signups data.
+Folder contains the ads-data.csv file with Ads Impressions : Signups data.
 
 
 ## Ads Histogram for current Data
-Clearly here Ad: 2 is the winner and should have higher budget allocation.
+Clearly Ad: 2 is the winner and should have higher budget allocation.
 
 <img width="641" alt="screen shot 2019-01-31 at 11 46 28 am" src="https://user-images.githubusercontent.com/5276190/52034823-2f6fa200-254f-11e9-93b2-5e309462e942.png">
 
